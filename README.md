@@ -7,9 +7,8 @@ App móvil para gestionar tareas usando SQLite como base de datos y SecureStore 
 - Recuperación de tareas desde la base de datos.
 - Uso de SecureStore para gestionar información sensible.
 
-
 ## Capturas de pantalla
 
-![Pantalla principal](https://github.com/JoelVargass/Manejo-de-datos/blob/main/assets/screenshots/secureStore.jpg)
-![Lista de tareas]([https://github.com/JoelVargass/Manejo-de-datos\assets\screenshots\sqlite.jpg](https://github.com/JoelVargass/Manejo-de-datos/blob/main/assets/screenshots/sqlite.jpg))
+<img src="https://github.com/JoelVargass/Manejo-de-datos/blob/main/assets/screenshots/secureStore.jpg" alt="Pantalla principal" width="400"/>
 
+<img src="https://github.com/JoelVargass/Manejo-de-datos/blob/main/assets/screenshots/sqlite.jpg" alt="Lista de tareas con SQLite" width="400"/>
